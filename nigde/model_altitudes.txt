@@ -1,0 +1,54 @@
+model: 2254-2272 
+	minAltitude: 1133.4105224609 
+	maxAltitude: 2272.4040527344
+
+model: 2240 
+	minAltitude: 2225.6789550781 
+	maxAltitude: 2250.8359375
+
+model: 2225_SPIRAL 
+	minAltitude: 2227.8811035156 
+	maxAltitude: 2232.5310058594
+
+model: 2_KAT_SPRAL 
+	minAltitude: 2193.4409179688 
+	maxAltitude: 2206.6870117188
+
+model: 3_KAT_SPRAL 
+	minAltitude: 2206.5471191406 
+	maxAltitude: 2225.6931152344
+
+
+
+[
+  {
+    "name": "2254-2272",
+    "min": 1133.4105224609,
+    "max": 2271.958984375
+  },
+  {
+    "name": "2240",
+    "min": 2225.6860351562,
+    "max": 2250.3809814453
+  },
+  {
+    "name": "2225_SPIRAL",
+    "min": 2228.3074951172,
+    "max": 2232.4909667969
+  },
+  {
+    "name": "2_KAT_SPRAL",
+    "min": 2193.5239257812,
+    "max": 2206.6170654297
+  },
+  {
+    "name": "3_KAT_SPRAL",
+    "min": 2206.6170654297,
+    "max": 2225.6860351562
+  },
+  {
+    "name": "ANAGALERI_2177_geofence",
+    "min": 2156.6304931641,
+    "max": 2193.5239257812
+  }
+]
