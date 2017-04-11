@@ -497,19 +497,19 @@ $TDUCREATE
   9
 $TDUPDATE
  40
-2457854.645768715
+2457854.772787361
   9
 $TDUUPDATE
  40
-2457854.520768715
+2457854.647787361
   9
 $TDINDWG
  40
-0.0020371296
+0.0023149306
   9
 $TDUSRTIMER
  40
-2457854.49851691
+2457854.647509572
   9
 $USRTIMER
  70
@@ -549,7 +549,7 @@ $SPLINESEGS
   9
 $HANDSEED
   5
-100BE
+100C4
   9
 $SURFTAB1
  70
@@ -1119,7 +1119,7 @@ ObjectDBX Classes
  90
         0
  91
-        4
+        7
 280
      0
 281
@@ -1135,7 +1135,7 @@ ObjectDBX Classes
  90
         0
  91
-        4
+        7
 280
      0
 281
@@ -1151,7 +1151,7 @@ ObjectDBX Classes
  90
      1153
  91
-        4
+        7
 280
      0
 281
@@ -1167,7 +1167,7 @@ ObjectDBX Classes
  90
      4095
  91
-        4
+        7
 280
      0
 281
@@ -1183,7 +1183,7 @@ ObjectDBX Classes
  90
      1153
  91
-        4
+        7
 280
      0
 281
@@ -1199,7 +1199,7 @@ ObjectDBX Classes
  90
      4095
  91
-        4
+        7
 280
      0
 281
@@ -1215,7 +1215,7 @@ ACDB_MLEADERSTYLE_CLASS
  90
      4095
  91
-        4
+        7
 280
      0
 281
@@ -1231,7 +1231,7 @@ SCENEOE
  90
      1153
  91
-        4
+        7
 280
      0
 281
@@ -1247,7 +1247,7 @@ ISM
  90
         0
  91
-        4
+        7
 280
      0
 281
@@ -1263,7 +1263,7 @@ ObjectDBX Classes
  90
      1152
  91
-        4
+        7
 280
      0
 281
@@ -1309,9 +1309,9 @@ AcDbViewportTableRecord
  21
 1.0
  12
-3345436.574808264
+3345439.332860031
  22
-2689098.086639254
+2689102.335148003
  13
 0.0
  23
@@ -1337,7 +1337,7 @@ AcDbViewportTableRecord
  37
 -1383546.238214262
  40
-66.37834112098214
+21.75085481852343
  41
 2.676392572944297
  42
@@ -1361,7 +1361,7 @@ AcDbViewportTableRecord
  75
      0
  76
-     1
+     0
  77
      0
  78
@@ -3527,7 +3527,7 @@ AcDbSymbolTableRecord
 100
 AcDbLayerTableRecord
   2
-INIT_CORD
+INIT_COORD
  70
      4
  62
@@ -7937,7 +7937,7 @@ POINT
 100
 AcDbEntity
   8
-INIT_CORD
+INIT_COORD
   6
 ByBlock
 100
@@ -8019,7 +8019,7 @@ ACAD_VISUALSTYLE
   3
 ACDB_RECOMPOSE_DATA
 350
-100BD
+100C3
   3
 AcDbVariableDictionary
 350
@@ -8084,6 +8084,10 @@ AcDbDictionary
 ACAD_LAYERSTATES
 360
 10046
+  3
+ACLYDICTIONARY
+360
+100C0
   0
 DICTIONARY
   5
@@ -8543,7 +8547,7 @@ X-Ray
   0
 XRECORD
   5
-100BD
+100C3
 102
 {ACAD_REACTORS
 330
@@ -8844,6 +8848,26 @@ DICTIONARY
 AcDbDictionary
 281
      1
+  0
+DICTIONARY
+  5
+100C0
+102
+{ACAD_REACTORS
+330
+10045
+102
+}
+330
+10045
+100
+AcDbDictionary
+281
+     1
+1001
+ACAD
+1000
+<All
   0
 LAYOUT
   5
@@ -10233,7 +10257,7 @@ TABLESTYLE
 102
 {ACAD_XDICTIONARY
 360
-100BB
+100C1
 102
 }
 330
@@ -14407,7 +14431,7 @@ AcDbXrecord
   0
 DICTIONARY
   5
-100BB
+100C1
 330
 1003F
 100
@@ -14419,19 +14443,19 @@ AcDbDictionary
   3
 ACAD_ROUNDTRIP_2008_TABLESTYLE_CELLSTYLEMAP
 360
-100BC
+100C2
   0
 CELLSTYLEMAP
   5
-100BC
+100C2
 102
 {ACAD_REACTORS
 330
-100BB
+100C1
 102
 }
 330
-100BB
+100C1
 100
 AcDbCellStyleMap
  90
